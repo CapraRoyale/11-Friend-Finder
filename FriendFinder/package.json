@@ -1,0 +1,37 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Fullstack 'dating' app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CapraRoyale/11-Friend-Finder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder",
+    "dating",
+    "potato",
+    "heroku",
+    "express",
+    "path",
+    "sorry",
+    "forgiveme",
+    "iknownotwhativedone"
+  ],
+  "author": "Siege Lehman (by way of UW WebDev Bootcamp instructions)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapraRoyale/11-Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/CapraRoyale/11-Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2",
+    "path": "^0.12.7"
+  }
+}
