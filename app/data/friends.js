@@ -1,7 +1,6 @@
-var friends =
-    [{
+var friends = [{
         name: "Alpha",
-        photo: "https://commons.wikimedia.org/wiki/Category:Alpha_(letter)#/media/File:ALPHA_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/1/13/ALPHA_%28capital_and_small%29.png",
         scores: [
             1,
             2,
@@ -17,7 +16,7 @@ var friends =
     },
     {
         name: "Beta",
-        photo: "https://commons.wikimedia.org/wiki/Category:Beta_(letter)#/media/File:BETA_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/0/0d/BETA_%28capital_and_small%29.png",
         scores: [
             1,
             1,
@@ -33,7 +32,7 @@ var friends =
     },
     {
         name: "Gamma",
-        photo: "https://commons.wikimedia.org/wiki/Category:Gamma_(letter)#/media/File:GAMMA_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/7/78/GAMMA_%28capital_and_small%29.png",
         scores: [
             2,
             2,
@@ -49,7 +48,7 @@ var friends =
     },
     {
         name: "Delta",
-        photo: "https://commons.wikimedia.org/wiki/Category:Delta_(letter)#/media/File:DELTA_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/7/78/GAMMA_%28capital_and_small%29.png",
         scores: [
             3,
             3,
@@ -65,7 +64,7 @@ var friends =
     },
     {
         name: "Epsilon",
-        photo: "https://commons.wikimedia.org/wiki/Category:Epsilon_(letter)#/media/File:EPSILON_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/6/65/EPSILON_%28capital_and_small%29.png",
         scores: [
             4,
             4,
@@ -81,7 +80,7 @@ var friends =
     },
     {
         name: "Zeta",
-        photo: "https://commons.wikimedia.org/wiki/Category:Zeta_(letter)#/media/File:ZETA_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/0/0e/ZETA_%28capital_and_small%29.png",
         scores: [
             5,
             5,
@@ -97,7 +96,7 @@ var friends =
     },
     {
         name: "Eta",
-        photo: "https://commons.wikimedia.org/wiki/Category:Eta_(letter)#/media/File:ETA_(capital_and_small).png",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/5/56/ETA_%28capital_and_small%29.png",
         scores: [
             2,
             3,
@@ -112,6 +111,6 @@ var friends =
         ]
     }
 
-    ];
+];
 
 module.exports = friends;
