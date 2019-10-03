@@ -1,4 +1,4 @@
-# 11-Friend-Finder
+# [11-Friend-Finder - *Deployed to Heroku*](https://potatofinder.herokuapp.com/)
 
 ## A VERY rudimentary 'dating' app.
 
@@ -24,6 +24,6 @@
 
 ## Video Demo
 
-![How To Use GIF]()
+![How To Use GIF](https://github.com/CapraRoyale/11-Friend-Finder/blob/master/app/public/assets/vid/howToUse.gif)
 
 
